@@ -1,5 +1,4 @@
-# Projects
-1. Taxi_fare_prediction:
+Taxi_fare_prediction:
    ⏱️ 'trip_duration': How long did the journey last?
    🛣️ 'distance_traveled': How far did the taxi travel?
    🧑‍🤝‍🧑 'num_of_passengers': How many passengers were in the taxi?
